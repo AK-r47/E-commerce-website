@@ -108,33 +108,7 @@ The e-commerce website built using HTML, CSS, Bootstrap, JavaScript, PHP, and My
 - [ ] Implement a wishlist or favorites functionality for users to save products for future reference.
 - [ ] Enhance search functionality by implementing filters, sorting options, or predictive search suggestions.
 - [ ] Integrate email notifications for order confirmations, shipment updates, and promotional campaigns.
-
-Feel free to prioritize and modify this todo list based on the specific requirements and priorities of your e-commerce website.
-
-# E-commerce Website - Credit Section
-
-We would like to acknowledge the following repositories and their contributors for their valuable contributions to the development of our e-commerce website:
-
-## Front-end Template
-
-- Repository: [codewithsadee/anon-ecommerce-website](https://github.com/codewithsadee/anon-ecommerce-website)
-- Contributors:
-  - Sadee Samaraweera ([@codewithsadee](https://github.com/codewithsadee))
-
-We utilized the front-end template from the above repository as the foundation for the user-side of our e-commerce website. This template provided a solid starting point with its well-structured HTML, CSS, and JavaScript code, along with pre-designed components and responsive design elements.
-
-## Admin Panel Template
-
-- Repository: [Bhabishya-123/E-commerce](https://github.com/Bhabishya-123/E-commerce)
-- Contributors:
-  - Bhabishya Sharma ([@Bhabishya-123](https://github.com/Bhabishya-123))
-
-We utilized the admin panel template from the above repository to build the administrative interface of our e-commerce website. The provided template offered a user-friendly and intuitive design, along with necessary features and functionalities to manage products, orders, and customer information effectively.
-
-We express our gratitude to the contributors of these repositories for their hard work, dedication, and open-source spirit, which greatly contributed to the development of our e-commerce website.
-
-Please note that while we utilized these repositories as a starting point, we have made customizations, enhancements, and added our own code to tailor the website to our specific requirements and design.
-
+- [ ] 
 # E-commerce Website - Installation Guide
 
 This installation guide will help you set up and run the e-commerce website on your local development environment. The guide assumes you have basic knowledge of web development and have the necessary software installed.
@@ -149,32 +123,6 @@ Before proceeding with the installation, make sure you have the following softwa
 - Git (optional)
 
 ## Installation Steps
-
-Follow these steps to install and run the e-commerce website:
-
-1. Clone the Repository:
-
-   - If you have Git installed, open a terminal and run the following command:
-     ```
-     git clone https://github.com/ShahandFahad/E-Commerce.git
-     ```
-   - Alternatively, you can download the repository as a ZIP file from the following URL: [https://github.com/ShahandFahad/E-Commerce/archive/refs/heads/main.zip](https://github.com/ShahandFahad/E-Commerce/archive/refs/heads/main.zip)
-   - Extract the contents of the ZIP file to a directory of your choice.
-
-2. Configure Database:
-
-   - Create a new MySQL database for the e-commerce website.
-   - Import the provided SQL file (`database.sql`) into your newly created database. This file contains the necessary tables and sample data for the website.
-
-3. Update Configuration:
-
-   - Open the `config.php` file located in the root directory.
-   - Update the database credentials (hostname, username, password, database name) to match your local setup.
-   - Save the changes.
-
-4. Start Web Server:
-
-   - Start your Apache or Nginx web server and ensure it is running correctly.
 
 5. Access the Website:
    - Open your web browser and navigate to the URL where the website is hosted (e.g., `http://localhost/E-Commerce`).
