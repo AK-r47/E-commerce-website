@@ -108,7 +108,8 @@ The e-commerce website built using HTML, CSS, Bootstrap, JavaScript, PHP, and My
 - [ ] Implement a wishlist or favorites functionality for users to save products for future reference.
 - [ ] Enhance search functionality by implementing filters, sorting options, or predictive search suggestions.
 - [ ] Integrate email notifications for order confirmations, shipment updates, and promotional campaigns.
-- [ ] 
+
+
 # E-commerce Website - Installation Guide
 
 This installation guide will help you set up and run the e-commerce website on your local development environment. The guide assumes you have basic knowledge of web development and have the necessary software installed.
@@ -137,7 +138,3 @@ To access the admin panel of the e-commerce website, follow these steps:
    - Username: `admin`
    - Password: `adminfahad`
 3. Once logged in, you can manage products, orders, customers, and other administrative tasks from the admin panel.
-
-Congratulations! You have successfully installed and set up the e-commerce website on your local development environment. You can now customize the website, add your products, and explore its various features.
-
-Please note that this installation guide assumes a basic local development environment. For deploying the website to a production server, additional configuration and security considerations may apply.
